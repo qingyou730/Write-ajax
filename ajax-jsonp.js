@@ -40,10 +40,9 @@ var $ = {
     }
 }
 
-//http://developer.duyiedu.com/edu/testJsonp?callback
 
 $.ajax({
-    url: "http://developer.duyiedu.com/edu/testJsonp",
+    url: "",
     type: "get",
     dataType: "jsonp",
     success: function (data) {
