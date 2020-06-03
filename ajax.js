@@ -26,7 +26,7 @@ function ajax(options) {
 }
 
 ajax({
-    url: "http://developer.duyiedu.com/edu/testAjaxCrossOrigin",
+    url: "",
     type: "GET",
     success: function (data) {
         console.log(data);
