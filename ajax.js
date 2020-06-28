@@ -32,3 +32,5 @@ ajax({
         console.log(data);
     }
 });
+
+var naem = 123;
